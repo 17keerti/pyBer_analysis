@@ -12,12 +12,22 @@ Using the Pandas groupby() function with the count() and sum() methods on PyBer 
 
 ![summary DataFrame ](Resources/Summary%20dataframe.png)
 
+- The Urban city had more total drivers than total rides, which impacted the average fare per ride and average fare per driver. The Urban drivers earned significantly less than the Rural drivers. Also the Urban city had the lowest average fare per ride.
+
+- The Rural city had the least number of total drivers and the highest average fare per ride. The rural city also have the highest average fare per driver.
+
 **Total weekly fares by city type**
 
 Using Pandas and two new functions, pivot() andresample(), we created a multiple-line graph that shows the total fares for each week by city type.
 
 ![Total weekly fares by city type](analysis/PyBer_fare_summary.png)
 
+- The chart shows similar peak times in all these types of cities which is at the end of February. But for the Urban city, that oscillating peak lasts through April.
+
+- The Rural city increases again in the month of April. The Suburban city starts to peak again at the end of April, while the Rural city type drops off.
+
 ## Summary
 
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+Three business recommendations to the CEO for addressing any disparities among the city types are:
+
+-
