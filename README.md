@@ -28,6 +28,8 @@ Using Pandas and two new functions, pivot() andresample(), we created a multiple
 
 ## Summary
 
-Three business recommendations to the CEO for addressing any disparities among the city types are:
+- The study can be more effective if we have data for the whole year rather than focusing on first few months.
 
--
+- Rural Cities have less drivers and seems like it is under served, so increasing the number of driver can be an option but we need to know if the rural demands are met or not before making any decision.
+
+- Number of drivers can be reduced in urban cities as reducing number of drivers will increase average fare per driver.
